@@ -1,3 +1,3 @@
 <?php
-echo "Hello word! Meu primeiro PHP!"
+echo "Hello word! Meu primeiro PHP alterado!"
 ?>
